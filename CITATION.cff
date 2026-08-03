@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the associated publication."
+type: software
+title: "Sustainability-oriented Business Process Analysis — Supplementary Material"
+authors:
+  - family-names: "Wolf"
+    given-names: "Nathalie"
+    affiliation: "Technical University of Munich"
+  - family-names: "Scharpf"
+    given-names: "Dominik"
+    affiliation: "Technical University of Munich"
+  - family-names: "Wittges"
+    given-names: "Holger"
+    affiliation: "Technical University of Munich"
+  - family-names: "Rinderle-Ma"
+    given-names: "Stefanie"
+    affiliation: "Technical University of Munich"
+license: CC-BY-4.0
+repository-code: "https://github.com/nathalieTUM/SoBP-Analysis"
+preferred-citation:
+  type: conference-paper
+  title: "Towards Sustainability-oriented Business Process Analysis using Process Mining"
+  authors:
+    - family-names: "Wolf"
+      given-names: "Nathalie"
+      affiliation: "Technical University of Munich"
+    - family-names: "Scharpf"
+      given-names: "Dominik"
+      affiliation: "Technical University of Munich"
+    - family-names: "Wittges"
+      given-names: "Holger"
+      affiliation: "Technical University of Munich"
+    - family-names: "Rinderle-Ma"
+      given-names: "Stefanie"
+      affiliation: "Technical University of Munich"
+  year: 2026
+  publisher:
+    name: "Springer"
+  collection-title: "Proceedings of the BPM4S Workshop, co-located with the International Conference on Business Process Management (BPM)"
+  notes: "To appear"
