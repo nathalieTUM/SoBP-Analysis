@@ -17,10 +17,10 @@ resulting sustainability dashboard.
 
 ## Contents
 
-- `sap_sustainability_mapping.xlsx` — Mapping of 144 process-level sustainability
+- `sap_sustainability_metrics_coverage.xlsx` — Mapping of 144 process-level sustainability
   metrics against data availability in a standard SAP S/4HANA system
   (directly available, indirectly available, extendable, not present).
-- `enriched_p2p_event_log.xes` — Enriched Procure-to-Pay (P2P) event log,
+- `enriched_gb_p2p_eventlog.xes` — Enriched Procure-to-Pay (P2P) event log,
   extended with transport emission, material, and vendor sustainability attributes.
 - `P2P Sustainability Dashboard/` — Screenshots of the SAP Signavio sustainability dashboard
   (Process Overview, Transport Emissions, Social Metrics, Vendor Compliance).
